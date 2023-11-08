@@ -1,2 +1,3 @@
 # IIT-Tirupati
-Author - Vijaykumar B
+Author - Vijaykumar Bejjanki
+Location - NITW
